@@ -3,7 +3,7 @@
 > * Xcode 15.2 新建项目并编辑
 > * 代码语言：Objective-C
 
-![效果图](https://github.com/printfmoney/ZSCodeTextDemo/Screen.png)
+![效果图](https://upload-images.jianshu.io/upload_images/855108-da661909e6280eb2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ----
 
